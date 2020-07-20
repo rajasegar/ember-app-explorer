@@ -1,0 +1,21 @@
+{
+  "name": "ember-sca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/parser": "^7.10.5",
+    "@babel/traverse": "^7.10.5",
+    "ember-template-recast": "^4.1.4",
+    "express": "^4.17.1",
+    "fs-extra": "^9.0.1",
+    "ramda": "^0.27.0",
+    "walk-sync": "^2.2.0"
+  }
+}
